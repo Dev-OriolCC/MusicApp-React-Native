@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "my-music-app",
+    "slug": "my-music-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
